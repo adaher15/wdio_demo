@@ -11,4 +11,14 @@ export password=PASSWORD
 
 # Run the app
 _Requires Java to be installed_
+<br/>
 _Requires Node.js 17 LTS and NPM >7.0_
+<br/>
+_Install dependencies_
+```
+npm install
+```
+_Run tests_
+```
+npm run test
+```
